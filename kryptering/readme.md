@@ -1,6 +1,6 @@
 # Kryptering
 
-Dette repository omhandleremnet kryptering til brug i undervisningen.
+Dette repository omhandler emnet kryptering til brug i undervisningen.
 
 [Microsoft Doc's omkring kryptering](https://docs.microsoft.com/en-us/dotnet/standard/security/cryptography-model)
 
