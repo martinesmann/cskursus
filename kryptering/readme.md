@@ -12,7 +12,7 @@ using System.Security.Cryptography;
 
 ## Download
 
-[Klik her for at hente koden](https://github.com/devcronberg/).
+[Klik her for at hente koden](https://github.com/martinesmann/cskursus).
 
 ## Symmetrisk kryptering
 
